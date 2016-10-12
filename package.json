@@ -28,7 +28,7 @@
   "homepage": "https://github.com/esnunes/riotjs-loader",
   "dependencies": {
     "loader-utils": "^0.2.6",
-    "riot-compiler": "riot-compiler@3.0.0-alpha.1"
+    "riot-compiler": "^3.0.0-alpha.1"
   },
   "peerDependencies": {
     "webpack": "^1.5.3"
